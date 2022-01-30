@@ -1,0 +1,15 @@
+D:\Учеба\Lec1\Пример1\bin\Debug\net6.0\Пример1.exe
+D:\Учеба\Lec1\Пример1\bin\Debug\net6.0\Пример1.deps.json
+D:\Учеба\Lec1\Пример1\bin\Debug\net6.0\Пример1.runtimeconfig.json
+D:\Учеба\Lec1\Пример1\bin\Debug\net6.0\Пример1.dll
+D:\Учеба\Lec1\Пример1\bin\Debug\net6.0\ref\Пример1.dll
+D:\Учеба\Lec1\Пример1\bin\Debug\net6.0\Пример1.pdb
+D:\Учеба\Lec1\Пример1\obj\Debug\net6.0\Пример1.csproj.AssemblyReference.cache
+D:\Учеба\Lec1\Пример1\obj\Debug\net6.0\Пример1.GeneratedMSBuildEditorConfig.editorconfig
+D:\Учеба\Lec1\Пример1\obj\Debug\net6.0\Пример1.AssemblyInfoInputs.cache
+D:\Учеба\Lec1\Пример1\obj\Debug\net6.0\Пример1.AssemblyInfo.cs
+D:\Учеба\Lec1\Пример1\obj\Debug\net6.0\Пример1.csproj.CoreCompileInputs.cache
+D:\Учеба\Lec1\Пример1\obj\Debug\net6.0\Пример1.dll
+D:\Учеба\Lec1\Пример1\obj\Debug\net6.0\ref\Пример1.dll
+D:\Учеба\Lec1\Пример1\obj\Debug\net6.0\Пример1.pdb
+D:\Учеба\Lec1\Пример1\obj\Debug\net6.0\Пример1.genruntimeconfig.cache
