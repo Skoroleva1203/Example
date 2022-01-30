@@ -1,0 +1,15 @@
+D:\Учеба\Lec1\Example2\bin\Debug\net6.0\Example2.exe
+D:\Учеба\Lec1\Example2\bin\Debug\net6.0\Example2.deps.json
+D:\Учеба\Lec1\Example2\bin\Debug\net6.0\Example2.runtimeconfig.json
+D:\Учеба\Lec1\Example2\bin\Debug\net6.0\Example2.dll
+D:\Учеба\Lec1\Example2\bin\Debug\net6.0\ref\Example2.dll
+D:\Учеба\Lec1\Example2\bin\Debug\net6.0\Example2.pdb
+D:\Учеба\Lec1\Example2\obj\Debug\net6.0\Example2.csproj.AssemblyReference.cache
+D:\Учеба\Lec1\Example2\obj\Debug\net6.0\Example2.GeneratedMSBuildEditorConfig.editorconfig
+D:\Учеба\Lec1\Example2\obj\Debug\net6.0\Example2.AssemblyInfoInputs.cache
+D:\Учеба\Lec1\Example2\obj\Debug\net6.0\Example2.AssemblyInfo.cs
+D:\Учеба\Lec1\Example2\obj\Debug\net6.0\Example2.csproj.CoreCompileInputs.cache
+D:\Учеба\Lec1\Example2\obj\Debug\net6.0\Example2.dll
+D:\Учеба\Lec1\Example2\obj\Debug\net6.0\ref\Example2.dll
+D:\Учеба\Lec1\Example2\obj\Debug\net6.0\Example2.pdb
+D:\Учеба\Lec1\Example2\obj\Debug\net6.0\Example2.genruntimeconfig.cache
